@@ -1,0 +1,110 @@
+.login {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.login h1 {
+	margin-bottom: 75px;
+}
+
+.login input {
+	margin-bottom: 20px;
+	width: 60%;
+}
+
+.login button {
+	width: 60%;
+	height:50px;
+	border-radius: 10px;
+	box-shadow: none;
+	border: none;
+	margin-bottom: 20px;
+}
+
+.login p {
+	color:red;
+	font-weight: bold;
+}
+
+.register {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.register h1 {
+	margin-bottom: 75px;
+}
+
+.register input {
+	margin-bottom: 20px;
+	width: 60%;
+}
+
+.register button {
+	width: 60%;
+	height:50px;
+	border-radius: 10px;
+	box-shadow: none;
+	border: none;
+	margin-bottom: 20px;
+}
+
+.register p {
+	color:red;
+	font-weight: bold;
+}
+
+.searchbar {
+	height: 400px;
+	background-color: #E8DDCB;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+.submit-post {
+	height:500px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 0px;
+}
+
+.posts {
+	border-bottom: 1px solid black;
+}
+
+#container {
+	background-color: #031634;
+	min-height:800px;
+}
+
+.welcome {
+	background-color: #E8DDCB;
+	margin-bottom: 20px;
+}
+
+.navigation {
+	background-color: #E8DDCB;
+}
+
+.nav-color {
+	background-color: #E8DDCB;
+}
+
+#container h1 {
+	color:#CDB380;
+	margin-top: -20px;
+	margin-bottom: 10px;
+}
+
+.nav-margin {
+	margin-bottom: 0px;
+}
+
+button {
+	border-radius: 10px;
+	border:none;
+}
